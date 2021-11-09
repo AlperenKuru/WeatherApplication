@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922907346173",
+    "project_id": "adamdegilsinki",
+    "storage_bucket": "adamdegilsinki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922907346173:android:40f59ca3162dcb150e6a94",
+        "android_client_info": {
+          "package_name": "com.example.adamdeilsinki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922907346173-1dqbfbesvg6ullu3tnpep718r2tu4v5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7FnHIJz9F5rvtts0YXwd9Km3_yNYuvnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922907346173-1dqbfbesvg6ullu3tnpep718r2tu4v5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
